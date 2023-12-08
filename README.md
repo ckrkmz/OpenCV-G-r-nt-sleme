@@ -31,5 +31,3 @@ Bu proje, bir kamera ile görüntü yakalayarak parlak noktaları ve metinleri a
 **Katkılar**
 
 Eğer bir hata bulursanız veya iyileştirmeler önerirseniz, lütfen bir konu açın veya bir çekme isteği gönderin. Katkılarınız her zaman memnuniyetle karşılanır.
-
-**Lisans:** [MIT License](https://chat.openai.com/c/LICENSE "MIT License")
